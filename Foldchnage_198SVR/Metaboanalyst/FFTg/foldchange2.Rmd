@@ -1,0 +1,51 @@
+---
+title: "Foldchange"
+author: "Mona Khorani"
+date: "6/22/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+m2=read.csv("FFTg_Order of raw data in master file-OnlyUricAcid.csv", sep=",")
+
+```
+
+```{r}
+library(gtools)
+```
+
+```{r}
+parameters1=data.frame(index=seq_len(22), FC=NA)
+
+```
+
+
+```{r}
+for (i in 1:22) {
+D1=mean(m2[1:9,i+2])
+D2=mean(m2[10:21,i+2])
+FC2=log2(D2/D1)
+parameters1[i,-1]=FC2
+}
+write.csv(parameters1,"Log2Foldchange-Uricacid.csv")
+m3=parameters1
+```
+
+
+```{r}
+library(ggplot2)
+ggplot(m3, aes(x=m3$index, y=m3$FC))+geom_bar(stat="identity")+
+  coord_flip()+ geom_bar(stat="identity", position = "identity")+labs(x="",
+                  y="",
+                  title="Measured Count per Category")+
+ scale_y_continuous(breaks=seq(-10,10,by=2))+theme(axis.text.x =
+                   element_text(size  = 10,
+                                angle = 45,
+                                hjust = 1,
+                                vjust = 1))
+        
+```
