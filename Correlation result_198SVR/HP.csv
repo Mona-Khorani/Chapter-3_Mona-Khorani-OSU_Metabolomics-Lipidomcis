@@ -1,0 +1,181 @@
+Compound,Reg,HP
+16-HETE,Decreased,-0.34266
+Myristoylcarnitine,Decreased,-0.57343
+Propionylcarnitine,Decreased,-0.18881
+Octadecenoic acid,Increased,0.23776
+Methyladenosine,Increased,0.02098
+Oleoylglycerophosphoinositol,Increased,0.00699
+2-AMINOETHYL DIHYDROGEN PHOSPHATE,Decreased,-0.06294
+Docosapentaenoic acid,Increased,0.35664
+4-AMINOBUTANOIC ACID,Decreased,-0.08392
+4-O-Galactopyranosylxylose,Decreased,-0.25874
+5-AMINOPENTANOATE,Increased,0.04196
+5-Hydroxyindoleacetic acid,Increased,0.16084
+5-Methyldeoxycytidine,Decreased,-0.64336
+5'-METHYLTHIOADENOSINE,Increased,0.33566
+9-Octadecenal,Decreased,-0.28671
+Eicosatrienoic acid,Increased,0.25175
+12-HYDROXYDODECANOIC ACID,Increased,0.17483
+13-hydroxyoctadecanoic acid,Increased,0.38462
+14-Hydroperoxy-H4-neuroprostane,Increased,0.20979
+"17,21-DIHYDROXY-4-PREGNENE-3,20-DIONE",Decreased,-0.40559
+Trihydroxyvitamin D3,Decreased,-0.26573
+Acetylcarnitine,Decreased,-0.18881
+Acetylcholine,Increased,0.16084
+ADENINE,Increased,0.05594
+ADENOSINE,Increased,0.32867
+Adrenic acid,Decreased,-0.34266
+ALANINE,Decreased,-0.33566
+Arachidonic acid ethyl ester,Decreased,-0.01399
+ARGININE,Decreased,-0.18881
+Argininosuccinic acid,Increased,0.32867
+AZELAIC ACID,Decreased,-0.30769
+C16 Sphingosine,Decreased,-0.1049
+Campesterol,Decreased,-0.09807
+CARNOSINE,Decreased,-0.11189
+Cer(18:1/18:0),Decreased,-0.21678
+Cholesterol,Increased,0.13986
+CITRATE,Increased,0.1049
+CITRULLINE,Decreased,-0.1049
+CMP,Decreased,-0.45455
+CREATINE,Decreased,-0.06993
+Cysteineglutathione disulfide,Increased,0.3007
+CYTIDINE,Increased,0.29371
+Cytidine diphosphate choline (CDPcholine),Increased,0.54545
+CYTOSINE,Increased,0.29371
+D-Aspartic acid,Increased,0.40559
+DEOXYCARNITINE,Increased,0.12587
+DESMOSTEROL,Increased,0.02098
+DG(16:0/18:0/0:0),Decreased,-0.40559
+DG(20:2/0:0/22:6),Decreased,-0.12587
+DG(20:4/24:0/0:0),Increased,0.06294
+DG(22:0/0:0/20:4),Decreased,-0.30769
+Docosatrienoic acid,Decreased,-0.06993
+Dodecanoic acid,Decreased,-0.29371
+D-PANTOTHENIC ACID,Decreased,-0.00699
+dUMP,Increased,0.23077
+Ergothioneine,Increased,0.1958
+gamma-Glutamylglutamic acid,Increased,0.16783
+GLUTAMIC ACID,Decreased,-0.18182
+L-GLUTAMINE,Decreased,-0.05594
+GLUTATHIONE,Increased,0.46154
+Glycerophosphocholine,Increased,0.33566
+GLYCINE,Increased,0.38462
+GLYCOCHOLATE,Increased,0.04196
+GUANINE,Decreased,-0.07692
+Guanosine,Increased,0.06993
+HISTIDINE,Decreased,-0.24476
+Homoanserine,Decreased,-0.11888
+HYPOXANTHINE,Decreased,-0.27972
+INOSINE,Decreased,-0.18881
+JASMONATE,Increased,0.1049
+L-AMINOCYCLOPROPANE-1-CARBOXYLATE,Increased,0.02098
+LAUROYLCARNITINE,Decreased,-0.26573
+LEUCINE,Decreased,-0.02797
+Linolenelaidic acid,Decreased,-0.23077
+Methionine,Increased,0.11189
+L-OLEOYL-RAC-GLYCEROL,Increased,0.01399
+LYSINE,Increased,0.15385
+LysoPA(0:0/16:0),Increased,0.35664
+LysoPC(14:0/0:0),Decreased,-0.06294
+LysoPC(16:1/0:0),Decreased,-0.2028
+LysoPC(18:0),Increased,0.13986
+LysoPC(18:1),Increased,0.06993
+LysoPC(18:2),Decreased,-0.11888
+LysoPC(20:4),Decreased,-0.36364
+LysoPC(22:6),Decreased,-0.30769
+LysoPE(0:0/20:0),Increased,0.24476
+LysoPE(0:0/20:1),Increased,0.2028
+LysoPE(0:0/22:0),Increased,0.44056
+LysoPE(0:0/22:2),Increased,0
+LysoPE(15:0/0:0),Increased,0.3007
+LysoPE(16:1/0:0),Increased,0.14685
+LysoPE(18:0/0:0),Decreased,-0.04196
+LysoPE(22:6/0:0),Decreased,-0.67133
+LysoPI(18:0/0:0),Decreased,-0.27972
+Lysyl-Leucine,Increased,0.25175
+Lysyl-Proline,Decreased,-0.62937
+METHACHOLINE,Increased,0.30769
+Methionine sulfoxide,Increased,0.45455
+Methyl linoleate,Increased,0.04196
+MG(0:0/22:6/0:0),Decreased,-0.59441
+N-(1-Deoxy-1-fructosyl)alanine,Increased,0.46154
+"N,N-dimethyl-Safingol",Increased,0.01399
+N1-Acetylspermidine,Decreased,-0.12587
+N-ACETYL-L-ASPARTIC ACID,Increased,0.67832
+N-ACETYLNEURAMINATE,Increased,0.31469
+"NE,NE,NE-TRIMETHYLLYSINE",Increased,0.18881
+NICOTINAMIDE,Increased,0.30769
+Cer(d18:1/16:0)( N-Palmitoylsphingosine),Decreased,-0.01399
+Octadecanamide,Increased,0.20979
+Octadecenoylcarnitine,Decreased,-0.16084
+OCTADECYLPHOSPHOCHOLINE,Increased,0.41958
+Oleamide,Increased,0.01399
+Oleic Acid ethyl ester,Increased,0.27972
+PA(17:0/0:0),Decreased,-0.4965
+PA(24:0/21:0),Increased,0.00699
+Palmitic Acid ethyl ester,Decreased,-0.00699
+Palmitoyl carnitine,Decreased,-0.05594
+PC(16:0/18:2),Increased,0.18182
+PC(22:2/20:5),Increased,0.30769
+PC(22:6/18:2),Increased,0.04895
+PC(24:1/18:4),Decreased,-0.15385
+PC(22:0/18:3),Decreased,-0.16783
+PC(16:0/20:1),Decreased,-0.46853
+PC(16:0/22:1),Decreased,-0.11888
+PC(18:0/20:4),Decreased,-0.05594
+LysoPE(16:0/0:0),Increased,0.39161
+PE(17:1/0:0),Increased,0.02797
+PE(18:0/22:2),Increased,0.14685
+PE(19:1/0:0),Decreased,-0.04196
+PE(22:2/20:5),Increased,0.25175
+PE(22:4/15:0),Increased,0.13986
+PE(22:6/22:6),Increased,0.0979
+PE(24:0/22:4),Decreased,-0.15385
+PE(16:0/22:4),Decreased,-0.18881
+LysoPE(P-16:0/0:0),Increased,0.31469
+PHENACYLAMINE,Increased,0.11189
+PIPECOLINIC ACID,Decreased,-0.08392
+PS(18:1/0:0),Decreased,-0.18881
+PS(18:3/20:0),Decreased,-0.1049
+PS(18:3/22:0),Increased,0.06294
+PS(18:4/22:2),Decreased,-0.0979
+PS(20:1/20:0),Decreased,-0.06993
+PS(20:4/20:0),Increased,0.00699
+PS(20:4/22:0),Decreased,-0.20979
+Spermic acid,Increased,0.27972
+SPERMIDINE,Decreased,-0.69231
+Sphinganine,Decreased,-0.03497
+Succinyladenosine,Increased,0.8042
+TAURINE,Decreased,-0.83916
+TG(14:1/20:5/22:6),Decreased,-0.34266
+TG(18:4/18:3/18:4),Decreased,-0.1049
+Urea,Decreased,-0.13986
+Uric acid,Decreased,-0.20979
+Valyl-Asparagine,Decreased,-0.14685
+Vitamin A,Increased,0.15385
+XANTHINE,Increased,0.03497
+Cer(d18:0/18:1),Decreased,-0.20979
+Cer(d18:0/18:1)_iso2,Decreased,-0.02797
+Cer(d18:0/20:0),Decreased,-0.13287
+Cer(d18:0/22:0),Increased,0.00699
+Cer(d18:1/18:1),Decreased,-0.14685
+Cer(d18:1/18:1)_iso2,Decreased,-0.06993
+Cer(d18:1/20:0),Increased,0.03497
+Cer(d18:1/22:1),Decreased,-0.30769
+Cer(d18:1/24:1),Decreased,-0.0979
+Cer(t18:0/16:0),Decreased,-0.45455
+Dihydroceramide,Decreased,-0.13986
+C2-Dihydroceramide ,Increased,0.46154
+HexHexCer(d18:1/18:1),Decreased,-0.02797
+HexCer(d18:1/16:0),Decreased,-0.24476
+HexCer(d18:1/18:1),Increased,0.12587
+HexCer(d18:1/20:0),Increased,0.08392
+HexCer(d18:1/18:0),Increased,0.14685
+HexCer(d18:1/24:1),Decreased,-0.05594
+HexHexCer(d18:1/18:0),Increased,0.21678
+SERINE,Decreased,-0.12587
+CYSTEINE,Increased,0.04196
+Guanidylic acid (guanosine monophosphate),Increased,0.76923
+Uracil,Decreased,-0.32168
+Uridine,Increased,0.51748

@@ -1,0 +1,51 @@
+Compound,Reg,HA
+PE(18:0/22:2),Increased,0.73427
+LYSINE,Increased,0.72727
+PE(16:0/0:0),Increased,0.68531
+Cytidine diphosphate choline (CDPcholine),Increased,0.63636
+NICOTINAMIDE,Increased,0.59441
+HexCer(d18:1/20:0),Increased,0.59441
+LysoPE(0:0/20:1),Increased,0.57343
+dUMP,Increased,0.56643
+PE(16:0/0:0)_2,Increased,0.55245
+Eicosatrienoic acid,Increased,0.54545
+DEOXYCARNITINE,Increased,0.54545
+"N,N-dimethyl-Safingol",Increased,0.51748
+L-OLEOYL-RAC-GLYCEROL,Increased,0.51049
+14-Hydroperoxy-H4-neuroprostane,Increased,0.4965
+DG(20:2/0:0/22:6),Increased,0.4965
+GLUTATHIONE,Increased,0.48951
+PS(18:1/0:0),Increased,0.48252
+PC(16:0/22:1),Increased,0.44755
+PIPECOLINIC ACID,Increased,0.44056
+Spermic acid,Increased,0.44056
+Cer(d18:1/24:1),Increased,0.44056
+LysoPC(16:1/0:0),Increased,0.43357
+PE(22:4/15:0),Increased,0.43357
+2-AMINOETHYL DIHYDROGEN PHOSPHATE,Increased,0.41259
+Octadecenoylcarnitine,Increased,0.40559
+PC(18:0/20:4),Increased,0.40559
+Acetylcholine,Increased,0.3986
+Uridine,Increased,0.37762
+Octadecenoic acid,Increased,0.37063
+Oleoylglycerophosphoinositol,Decreased,-0.36364
+PC(22:6/18:2),Decreased,-0.37063
+INOSINE,Decreased,-0.3986
+CITRULLINE,Decreased,-0.41259
+LysoPE(0:0/20:0),Decreased,-0.41958
+Cer(t18:0/16:0),Decreased,-0.42657
+Dodecanoic acid,Decreased,-0.44755
+LysoPC(20:4),Decreased,-0.46154
+Dihydroceramide,Decreased,-0.46154
+Lysyl-Proline,Decreased,-0.48252
+Cer(d18:1/20:0),Decreased,-0.48951
+4-AMINOBUTANOIC ACID,Decreased,-0.5035
+LysoPA(0:0/16:0),Decreased,-0.5035
+L-AMINOCYCLOPROPANE-1-CARBOXYLATE,Decreased,-0.51748
+OCTADECYLPHOSPHOCHOLINE,Decreased,-0.53147
+1-Methyladenosine,Decreased,-0.58042
+Cer(d18:0/18:1)_iso2,Decreased,-0.59441
+Cer(d18:1/16:0)( N-Palmitoylsphingosine),Decreased,-0.60839
+Cer(d18:1/18:1),Decreased,-0.65734
+Cer(18:1/18:0),Decreased,-0.77622
+LysoPC(22:6),Decreased,-0.81119
