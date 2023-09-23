@@ -1,0 +1,14 @@
+	index		Corrspearman 	PVAL-spearman rank correlation cof
+DEOXYCARNITINE	46	increased	0.927633657	0.007665844
+dUMP	55	increased	0.927633657	0.007665844
+PC(18:0/20:4)	125	increased	0.927633657	0.007665844
+PIPECOLINIC ACID	137	increased	0.927633657	0.007665844
+Octadecenoylcarnitine	110	increased	0.898645105	0.014888622
+LysoPC(14:0)	79	increased	0.869656553	0.024376892
+LysoPE(22:6)	93	increased	0.869656553	0.024376892
+Myristoylcarnitine	2	increased	0.840668002	0.036057573
+4-AMINOBUTANOIC ACID	9	decreased	-0.81167945	0.049857585
+LysoPE(20:0)	86	decreased	-0.81167945	0.049857585
+Acetylcarnitine	22	increased	0.81167945	0.049857585
+Uric acid	153	increased	0.81167945	0.049857585
+HexCer(d18:1/20:0)	172	increased	0.81167945	0.049857585

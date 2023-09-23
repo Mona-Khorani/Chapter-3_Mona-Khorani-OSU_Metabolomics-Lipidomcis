@@ -1,0 +1,14 @@
+,Compound,Reg,cor,pval
+1,DEOXYCARNITINE,Positive Correlation,0.927633657,0.007665844
+2,dUMP,Positive Correlation,0.927633657,0.007665844
+3,PC(18:0/20:4),Positive Correlation,0.927633657,0.007665844
+4,PIPECOLINIC ACID,Positive Correlation,0.927633657,0.007665844
+5,Octadecenoylcarnitine,Positive Correlation,0.898645105,0.014888622
+6,LysoPC(14:0),Positive Correlation,0.869656553,0.024376892
+7,LysoPE(22:6),Positive Correlation,0.869656553,0.024376892
+8,Myristoylcarnitine,Positive Correlation,0.840668002,0.036057573
+9,4-AMINOBUTANOIC ACID,Negative Correlation,-0.81167945,0.049857585
+10,LysoPE(20:0),Negative Correlation,-0.81167945,0.049857585
+11,Acetylcarnitine,Positive Correlation,0.81167945,0.049857585
+12,Uric acid,Positive Correlation,0.81167945,0.049857585
+13,HexCer(d18:1/20:0),Positive Correlation,0.81167945,0.049857585
